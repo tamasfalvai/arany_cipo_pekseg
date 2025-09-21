@@ -1,0 +1,68 @@
+body{
+    background: #a47148;
+    
+}
+
+header{
+    text-align: center;
+    text-decoration: underline #52504d;
+    color: #120d08;
+    font-size: 40px;
+    text-shadow: 4px 4px 6px #ffffff;
+    background-image: url(./header2.webp);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+
+
+header h1{
+    margin-top: 0%;
+    padding-top: 10%;
+    
+}
+
+
+table{
+    background: #f3d5b5;
+    border-radius:   3%;
+    height: 200px;
+    font-size: 20px;
+    background-image: url(./cipó.webp);
+    background-size: 25%;
+    background-repeat: no-repeat;
+    padding-left: 400px;
+    padding: 100px;
+    margin-left: 300px;
+    text-align: center;
+    
+}
+ 
+td{
+    background: #d4a276;
+    font-size: 25px;
+    border-radius: 1%;
+    text-shadow: 4px 4px 10px #5a380f;
+    
+}
+tr{
+    background: #a8754c;
+    font-size: 30px;
+    border-radius: 1%;
+    padding: 0 15px 0 15px;
+    text-shadow: 4px 4px 15px #49361e;
+}
+
+p{
+    text-align: center;
+    font-size: 28px;
+    margin: 0 100px;
+}
+
+h2{
+    text-align: center;
+    font-size: 33px;
+}
